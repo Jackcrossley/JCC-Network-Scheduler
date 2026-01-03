@@ -1,1 +1,7 @@
+import os
+
+BOT_TOKEN = "MTQ1NzA4NTk3Mzg5NTU3NzYzMA.Gwgq3C.4LicH-Y-TlQmMLzGbsltoPPGy3A4M6-1J0925s"
+
+GUILD_ID = 1438431141299490827   # Your server ID
+CHANNEL_ID = 1438858853696409651 # Channel where embeds go
 
